@@ -3,12 +3,12 @@
     "description": "PayPal Core SDK for PHP",
     "keywords": ["paypal", "php", "sdk"],
     "type": "library",
-    "homepage": "https://github.com/paypal/sdk-core-php",
+    "homepage": "https://github.com/Putitii/paypal-merchant-sdk/sdk-core-php",
     "license": "Apache-2.0",
     "authors": [
         {
             "name": "PayPal",
-            "homepage": "https://github.com/paypal/sdk-core-php/contributors"
+            "homepage": "https://github.com/Putitii/paypal-merchant-sdk/contributors"
         }
     ],
     "require": {
